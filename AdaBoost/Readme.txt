@@ -12,15 +12,14 @@ train and their labels are in Y train.
 
 The testing examples are in X test and their labels are in Y test.
 Weak learner: A weak learner will correspond to a single pixel in the image and a threshold
-value, i.e., x
-> . Select at each iteration the best weak learner available.
+value, i.e., x_i,j>theta.  Select at each iteration the best weak learner available.
 Your experiments and the graphs you will output should address the following questions:
-i;j
+
 1. What happens when the number of iterations increases (both in the training error and
 test error).
 2. What happen when the size of the training set increases (you can use a random subset
 of the training set).
-3. How does the distribution changes through dierent iterations (qualitatively).
+3. How does the distribution changes through different iterations (qualitatively).
 
 
 
