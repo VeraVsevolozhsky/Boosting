@@ -5,7 +5,7 @@ Write a program to implement the AdaBoost algorithm. Run the program on the TSS.
 data set at the AdaBoost folder. (The data has handwritten digits of the number
 "4" and number "7".)
 
-File format: Each line is a dierent image. The images are 28 x 28 with each entry having a
+File format: Each line is a different image. The images are 28 x 28 with each entry having a
 gray level. This implies that an image has 784 entries. There are 1000 training examples and
 200 test examples. The training examples are in X
 train and their labels are in Y train.
